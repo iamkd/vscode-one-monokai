@@ -259,6 +259,7 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#56b6c2"
       }
     },
