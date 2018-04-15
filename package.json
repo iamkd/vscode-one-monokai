@@ -2,7 +2,7 @@
     "name": "one-monokai-italics",
     "displayName": "One Monokai Theme with Italics",
     "description": "A cross between Monokai and One Dark theme with added italics for Operator Mono",
-    "version": "0.3.6",
+    "version": "0.4.0",
     "publisher": "iamkd",
     "engines": {
         "vscode": "^1.13.0"
