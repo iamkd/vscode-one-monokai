@@ -99,6 +99,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#e06c75"
       }
     },
@@ -131,9 +132,18 @@
       }
     },
     {
+      "name": "Keyword Control",
+      "scope": "keyword.control",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#e06c75"
+      }
+    },
+    {
       "name": "Storage",
       "scope": "storage",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#e06c75"
       }
     },
@@ -241,6 +251,7 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#98c379"
       }
     },
